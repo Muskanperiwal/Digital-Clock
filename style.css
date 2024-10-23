@@ -1,0 +1,14 @@
+.center{
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+    align-items: center;
+    height: 500px;
+}
+#clock{
+    font-size: 40px;
+   background-color: orange;
+   padding: 10px 60px;
+   margin-top: 10px;
+   border-radius: 20px; 
+}
